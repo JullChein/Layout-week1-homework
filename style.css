@@ -1,0 +1,213 @@
+body {
+    font-family: "PingFang TC", "SF Pro Text", "sans-serif";
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header h1 {
+    font-size: 80px;
+    line-height: 95px;
+    padding-top: 40px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid #000;
+}
+
+header img {
+    padding: 48px 0;
+    display: block;
+}
+
+.profile h2 {
+    font-size: 32px;
+    line-height: 1.5;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #000;
+}
+
+.profile span {
+    font-size: 24px;
+    color: #A00404;
+    line-height: 1.5;
+    font-weight: bold;
+    padding-left: 16px;
+}
+
+.profile-list {
+    font-size: 24px;
+    font-weight: lighter;
+    line-height: 1.5;
+    padding-top: 16px;
+    padding-bottom: 8px;
+}
+
+.education h2 {
+    font-size: 32px;
+    line-height: 1.5;
+    padding-top: 56px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #000;
+}
+
+.education span {
+    font-size: 24px;
+    color: #A00404;
+    line-height: 1.5;
+    font-weight: bold;
+    padding-left: 16px;
+}
+
+.education-list {
+    font-size: 24px;
+    font-weight: lighter;
+    line-height: 1.5;
+    padding-top: 16px;
+}
+
+.skills {
+    background-color: #415165;
+    color: #fff;
+    text-align: center;
+    margin-top: 64px;
+    padding-bottom: 40px;
+}
+
+.skills h3 {
+    margin: 0 auto;
+    width: 1200px;
+    font-size: 32px;
+    line-height: 1.5;
+    padding-top: 24px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #fff;
+}
+
+.skills span {
+    font-size: 24px;
+    line-height: 1.5;
+    padding-left: 16px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+}
+
+.skills ul {
+
+    margin-top: 40px;
+    padding-left: 23px;
+    border-left: 1px solid #fff;
+}
+
+.skill-list {
+    font-size: 24px;
+    line-height: 1.5;
+    font-weight: lighter;
+    text-align: left;
+}
+
+.mt-8 {
+    margin-top: 8px;
+}
+
+.work h2 {
+    font-size: 32px;
+    line-height: 1.5;
+    padding-top: 64px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #000;
+}
+
+.work span {
+    font-size: 24px;
+    color: #A00404;
+    line-height: 1.5;
+    font-weight: bold;
+    padding-left: 16px;
+}
+
+.work ul {
+    margin-top: 16px;
+    padding-left: 24px;
+    margin-left: 24px;
+    border-left: 1px solid #96A9C4;
+    margin-bottom: 80px;
+}
+
+.work-list {
+    margin-bottom: 24px;
+}
+
+.work-list h4 {
+    font-size: 24px;
+    line-height: 1.5;
+}
+
+.work-list p {
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: lighter;
+    max-width: 642px;
+}
+
+.work-list img {
+    display: block;
+}
+
+footer {
+    background-color: #415165;
+    text-align: center;
+    color: #fff;
+}
+
+footer h3 {
+    width: 1200px;
+    margin: 0 auto;
+    font-size: 32px;
+    line-height: 1.5;
+    padding-top: 24px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #fff;
+}
+
+footer span {
+    font-size: 24px;
+    line-height: 1.5;
+    padding-left: 16px;
+}
+
+.contact {
+    margin-top: 24px;
+}
+
+.contact-list p {
+    font-size: 24px;
+    line-height: 1.5;
+    padding-bottom: 16px;
+}
+
+.contact-list a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.contact-list a:hover {
+    color: #96A9C4;
+}
+
+.media {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+}
+
+.media img {
+    display: block;
+}
+
+.media-list-ig {
+    margin: 0 24px;
+}
